@@ -12,7 +12,7 @@
 
 ## Overview
 
-This app is the JavaScript transpile of [Ionic React Conference Demo App](https://github.com/ionic-team/ionic-react-sidemenu-app) organized to work without a build step by using,
+This app is the JavaScript transpile of [Ionic React Side Menu App](https://github.com/ionic-team/starters/tree/master/react/official/sidemenu) organized to work without a build step by using,
 
 * [ESM Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) and
 * [Import Maps](https://github.com/WICG/import-maps).
